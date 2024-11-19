@@ -1,0 +1,878 @@
+[
+    {
+        "contract_name": "g2_50661.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_39664.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_3211.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_17401.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_78.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_14439.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_1288.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_5.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_948.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_63.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_3543.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_50027.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_22734.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_28.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_16.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_36737.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_40748.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_5629.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_1668.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_14381.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_22636.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40777.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g1_40299.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_29154.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40765.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g3_652.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_17829.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_39341.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_34668.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_31565.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_2563.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_740.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_1288.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_24369.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_50022.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_9850.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_10146.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_738.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_1319.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_797.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_26523.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_5975.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_60.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_19692.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_40539.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40735.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g3_51000.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_13012.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50001.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_36456.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_46.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_35285.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_19925.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_339.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_1824.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50440.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_35713.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_36.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_8872.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_6044.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_8872.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_18510.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g3_50047.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_2252.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_50012.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_36563.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_29.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_22613.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_40732.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_16521.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_40768.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_419.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_4474.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_3541.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_40726.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_51001.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_35661.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_653.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_22247.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_6149.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_3434.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50219.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_1.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_19.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_25.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_1631.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_24.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_11159.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_53.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g3_50044.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50010.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_33217.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_27121.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40758.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_1668.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_80.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_6369.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_13993.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_39583.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_4598.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_17044.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_39778.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_6220.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_595.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_1313.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_27.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_38096.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_50031.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_11064.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_31237.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_37499.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_212.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40764.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_9208.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_39705.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40778.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_50052.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_5142.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_883.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_24161.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_10369.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50798.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40787.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_400.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_30101.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_3123.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_14806.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_4993.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_13.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_31867.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_13069.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_23694.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_37274.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_48.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_1115.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_16018.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50558.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_30396.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_31812.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_37683.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_9208.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_39583.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40742.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_37920.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_40750.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_40780.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g3_70.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_40340.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_4467.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50027.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_30254.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_84.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_738.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_40336.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_68.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_6272.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_50018.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g1_22074.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_18509.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_1313.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_39327.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g1_25808.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_50063.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_1183.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_36852.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_10675.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_32175.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_592.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_10971.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_21.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50770.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_7330.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_1057.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_11323.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_1813.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50788.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g1_26743.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g1_27327.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_50019.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_39559.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_30813.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_35662.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40499.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_666.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_26742.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_38709.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50795.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_38828.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50221.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_50035.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g1_40779.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g1_50006.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g3_50043.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_11346.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_28974.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_1430.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_29089.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g2_7593.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_14994.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g3_85.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_7570.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_50021.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g3_16637.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_40.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_79.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40750.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_22074.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_40415.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_35257.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g4_34575.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_18509.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_39425.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_40789.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_17816.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g3_6043.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_21404.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g2_3211.sol",
+        "targets": "1"
+    },
+    {
+        "contract_name": "g4_14634.sol",
+        "targets": "0"
+    },
+    {
+        "contract_name": "g1_10970.sol",
+        "targets": "0"
+    }
+]

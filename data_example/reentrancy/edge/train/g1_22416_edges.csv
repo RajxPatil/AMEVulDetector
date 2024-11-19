@@ -1,0 +1,6 @@
+Source,Target,Edge_Type,Edge_Feature
+S,VAR0,S,3,FW
+W0,VAR0,W0,1,IF
+VAR0,S,W0,2,GN
+S,F,S,0,FW
+F,W0,F,1,FW
